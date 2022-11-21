@@ -8,4 +8,5 @@ paramiko==1.13.0
 # Description: Celery Flower
 # License: BSD
 # Upstream url: https://github.com/mher/flower
-flower==0.9.1
+flower==1.2.0
+tornado>=5.1 # not directly required, pinned by Snyk to avoid a vulnerability
