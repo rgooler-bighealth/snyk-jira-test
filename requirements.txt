@@ -1,11 +1,1 @@
-# paramiko
-# Description: SSH2 protocol library
-# License: LGPL
-# Upstream url: https://github.com/paramiko/paramiko/
-paramiko==1.13.0
-
-# flower
-# Description: Celery Flower
-# License: BSD
-# Upstream url: https://github.com/mher/flower
-flower==0.9.1
+django==3.2
